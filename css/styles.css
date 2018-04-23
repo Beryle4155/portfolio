@@ -1,3 +1,27 @@
-.name{
-  font-style: bold;
+.dada{
+  color:pink ;
+  text-align: center;
+  background-color:black;
+}
+
+body{
+  background-color: black;
+  width: auto;
+  font-family: sans-serif;font-style: normal;
+}
+
+.list{
+  text-align: center;
+  padding: 10px;
+}
+
+ul li{
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.projects{
+  display: block;
+margin-top: 130px;
 }
