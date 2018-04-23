@@ -8,6 +8,14 @@ body{
   background-color: black;
   width: auto;
   font-family: sans-serif;font-style: normal;
+  font-size: 30px;
+}
+
+h1{
+  color: pink;
+  font-size: 40px;
+  width:25%;
+  margin:20px auto;
 }
 
 .list{
@@ -24,4 +32,10 @@ ul li{
 .projects{
   display: block;
 margin-top: 130px;
+}
+
+h2{
+  color: white;
+  font-style: lucida;
+  font-size: 40px;
 }
