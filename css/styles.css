@@ -15,7 +15,6 @@ h1{
   color: pink;
   font-size: 40px;
   width:25%;
-  margin:20px auto;
 }
 
 .list{
@@ -38,4 +37,8 @@ h2{
   color: white;
   font-style: lucida;
   font-size: 40px;
+}
+
+.image{
+  float: left;
 }
