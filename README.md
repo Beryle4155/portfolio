@@ -3,6 +3,9 @@
 # Authors
 - [Berlyne Kwamboka](https://github.com/Beryle4155)
 
+## Link to Live Site
+[My Portfolio](https://beryle4155.github.io/portfolio/)
+
 ## Project setup instructions
 To start using this project use the following commands:
 
